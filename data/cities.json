@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Sif",
+      "country": "Yemen",
+      "emoji": "🇾🇪",
+      "date": "2023-12-27T20:26:56.113Z",
+      "notes": "55555",
+      "position": {
+        "lat": "14.944784875088372",
+        "lng": "48.51562500000001"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Persian Gulf",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2023-12-27T20:27:04.823Z",
+      "notes": "84454",
+      "position": {
+        "lat": "27.68352808378776",
+        "lng": "49.74609375000001"
+      },
+      "id": 2
+    },
+    {
+      "cityName": "Amuru",
+      "country": "Uganda",
+      "emoji": "🇺🇬",
+      "date": "2023-12-27T20:27:10.703Z",
+      "notes": "",
+      "position": {
+        "lat": "2.8113711933311403",
+        "lng": "32.16796875000001"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Luchazes",
+      "country": "Angola",
+      "emoji": "🇦🇴",
+      "date": "2023-12-27T20:27:16.014Z",
+      "notes": "4484\n",
+      "position": {
+        "lat": "-13.581920900545844",
+        "lng": "18.105468750000004"
+      },
+      "id": 4
+    }
+  ]
+}
